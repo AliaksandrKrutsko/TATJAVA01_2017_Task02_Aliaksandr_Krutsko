@@ -1,0 +1,2 @@
+ball,10,true,1
+bow,100,true,100
